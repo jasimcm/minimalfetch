@@ -1,0 +1,13 @@
+{
+  "name": "minimal-fetch-project",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library to simplify fetch API calls with built-in error handling and timeouts.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo 'Running tests...'"
+  },
+  "author": "Jasim",
+  "license": "ISC"
+}
